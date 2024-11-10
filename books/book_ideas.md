@@ -8,5 +8,3 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Mastering git
-- [ ] Mastering Okta
-- [ ] Mastering iOS and Mac OS X programming 
